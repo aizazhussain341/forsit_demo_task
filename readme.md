@@ -1,6 +1,7 @@
 # forsit-demo-task
 Demo task for e-commerce
 
+
 **Dependencies**
 
 Python 3.9+
@@ -8,6 +9,11 @@ Python 3.9+
 Pip
 
 Other listed in requirements.txt
+
+**Clone this project**
+
+`git clone https://github.com/aizazhussain341/forsit_demo_task.git`
+
 
 **Create a Virtual Environment using**
 
